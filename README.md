@@ -20,6 +20,8 @@ X0 is the original picture
 
 ![pic](assets/DDIM-beta.png)
 
+![pic](assets/DDIM-sigma.png)
+
 ![pic](assets/task2_ddim.png)
 
 when σ = 0, it becomes deterministic like DDPM
