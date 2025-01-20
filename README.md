@@ -41,6 +41,9 @@ Same as forward process => ![pic](assets/DDPM-loss2.png)
 ![pic](assets/AFHQ-dataset.png)
 
 ## Results
+
+FID Score ~= 4
+
 ![pic](assets/ddim-output.png)
 
 # Using Classifier-Free Guidance (Conditioned Generation)
@@ -48,4 +51,8 @@ Same as forward process => ![pic](assets/DDPM-loss2.png)
 ![pic](assets/cfg-equation.png)
 
 ## Results
+
+Using conditions of cat & dog
+FID Score ~= 4
+
 ![pic](assets/cfg-output.png)
