@@ -43,7 +43,7 @@ Same as forward process => ![pic](assets/DDPM-loss2.png)
 ## Results
 ![pic](assets/task2_output_example.png)
 
-# Using Classifier-Free Guidance
+# Using Classifier-Free Guidance (Conditioned Generation)
 
 ![pic](assets/cfg-equation.png)
 
