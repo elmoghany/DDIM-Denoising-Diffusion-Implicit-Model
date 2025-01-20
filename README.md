@@ -22,7 +22,7 @@ X0 is the original picture
 
 ![pic](assets/DDPM-reverse-mean.png)
 
-![pic](assets/assets/DDIM-beta.png)
+![pic](assets/DDIM-beta.png)
 
 ![pic](assets/task2_ddim.png)
 
