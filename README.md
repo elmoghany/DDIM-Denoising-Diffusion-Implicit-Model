@@ -20,7 +20,7 @@ X0 is the original picture
 
 ![pic](assets/DDIM-beta.png)
 
-![pic](assets/DDIM-sigma.png)
+![pic](assets/DDIM-sigma.png), so we can vary between DDPM and DDIM
 
 ![pic](assets/task2_ddim.png)
 
