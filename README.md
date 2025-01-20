@@ -16,8 +16,6 @@ X0 is the original picture
 ## Reverse Process
 ϵθ​(x_t​,t) is model’s output. Network is trying to denoise and predict the image from the existing noise.
 
-σ = √𝝱
-
 ![pic](assets/DDPM-pre-forward.png)
 
 ![pic](assets/DDIM-beta.png)
