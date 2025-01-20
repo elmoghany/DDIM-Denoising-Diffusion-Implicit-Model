@@ -53,6 +53,7 @@ FID Score ~= 4
 ## Results
 
 Using conditions of cat & dog
+
 FID Score ~= 4
 
 ![pic](assets/cfg-output.png)
