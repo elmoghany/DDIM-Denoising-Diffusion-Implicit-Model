@@ -28,7 +28,7 @@ when σ = 0
 
 ![pic](assets/DDPM-reverse-mean.png)
 
-![pic](assets/DDPM-reverse-xt-2.png)
+![pic](assets/DDPM-reverse-xt-1-2.png)
 
 
 ## Training Loss MSE "ELBO"
