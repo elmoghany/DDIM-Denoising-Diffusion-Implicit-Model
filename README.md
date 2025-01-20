@@ -24,7 +24,7 @@ X0 is the original picture
 
 ![pic](assets/task2_ddim.png)
 
-when σ = 0
+when σ = 0, it becomes deterministic like DDPM
 
 ![pic](assets/DDPM-reverse-mean.png)
 
