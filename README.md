@@ -1,4 +1,4 @@
-# DDIM Denoising Diffusion Implicit Model Implementation
+# DDIM Denoising Diffusion Implicit Model Implementation & Conditioned-Model CFG (Classifier-Free Guidance)
 
 ## Forward Process
 𝝱 in the range [0.0001, 0.02] and set the total timesteps T = 1000
