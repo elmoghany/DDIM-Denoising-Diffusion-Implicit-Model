@@ -20,11 +20,15 @@ X0 is the original picture
 
 ![pic](assets/DDPM-pre-forward.png)
 
-![pic](assets/DDPM-reverse-mean.png)
-
 ![pic](assets/DDIM-beta.png)
 
 ![pic](assets/task2_ddim.png)
+
+when σ = 0
+
+![pic](assets/DDPM-reverse-mean.png)
+
+![pic](assets/DDPM-reverse-xt-1-2.png)
 
 
 ## Training Loss MSE "ELBO"
