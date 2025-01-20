@@ -30,7 +30,6 @@ when σ = 0, it becomes deterministic like DDPM
 
 ![pic](assets/DDPM-reverse-xt-1-2.png)
 
-
 ## Training Loss MSE "ELBO"
 
 ![pic](assets/DDPM-loss1.png)
@@ -40,6 +39,13 @@ Same as forward process => ![pic](assets/DDPM-loss2.png)
 ## Dataset used
 [AFHQ Animals Dataset](https://huggingface.co/datasets/huggan/AFHQ)
 ![pic](assets/AFHQ-dataset.png)
+
+## Results
+![pic](assets/task2_output_example.png)
+
+# Using Classifier-Free Guidance
+
+![pic](assets/cfg-equation.png)
 
 ## Results
 ![pic](assets/task2_output_example.png)
