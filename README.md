@@ -41,11 +41,11 @@ Same as forward process => ![pic](assets/DDPM-loss2.png)
 ![pic](assets/AFHQ-dataset.png)
 
 ## Results
-![pic](assets/task2_output_example.png)
+![pic](assets/ddim-output.png)
 
 # Using Classifier-Free Guidance (Conditioned Generation)
 
 ![pic](assets/cfg-equation.png)
 
 ## Results
-![pic](assets/task2_output_example.png)
+![pic](assets/cfg-output.png)
